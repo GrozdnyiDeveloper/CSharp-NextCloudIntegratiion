@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kotko\\Desktop\\10\\IntegrityAnnotationClear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E19992-E8DB-4D7C-9568-E5583ABD522D}|crmPark.WebDav.ClearAnnotationData\\crmPark.WebDav.ClearAnnotationData.csproj|c:\\users\\kotko\\desktop\\10\\integrityannotationclear\\crmpark.webdav.clearannotationdata\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E19992-E8DB-4D7C-9568-E5583ABD522D}|crmPark.WebDav.ClearAnnotationData\\crmPark.WebDav.ClearAnnotationData.csproj|solutionrelative:crmpark.webdav.clearannotationdata\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E19992-E8DB-4D7C-9568-E5583ABD522D}|crmPark.WebDav.ClearAnnotationData\\crmPark.WebDav.ClearAnnotationData.csproj|c:\\users\\kotko\\desktop\\10\\integrityannotationclear\\crmpark.webdav.clearannotationdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E19992-E8DB-4D7C-9568-E5583ABD522D}|crmPark.WebDav.ClearAnnotationData\\crmPark.WebDav.ClearAnnotationData.csproj|solutionrelative:crmpark.webdav.clearannotationdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\10\\IntegrityAnnotationClear\\crmPark.WebDav.ClearAnnotationData\\Program.cs",
+              "RelativeDocumentMoniker": "crmPark.WebDav.ClearAnnotationData\\Program.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\10\\IntegrityAnnotationClear\\crmPark.WebDav.ClearAnnotationData\\Program.cs",
+              "RelativeToolTip": "crmPark.WebDav.ClearAnnotationData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T23:01:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationManager.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\10\\IntegrityAnnotationClear\\crmPark.WebDav.ClearAnnotationData\\LocationManager.cs",
+              "RelativeDocumentMoniker": "crmPark.WebDav.ClearAnnotationData\\LocationManager.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\10\\IntegrityAnnotationClear\\crmPark.WebDav.ClearAnnotationData\\LocationManager.cs",
+              "RelativeToolTip": "crmPark.WebDav.ClearAnnotationData\\LocationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T23:01:32.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

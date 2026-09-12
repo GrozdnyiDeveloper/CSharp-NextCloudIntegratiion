@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\integritydocumentsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|solutionrelative:integritydocumentsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\integritydocumentsort\\webdavmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|solutionrelative:integritydocumentsort\\webdavmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\integritydocumentsort\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B44452-1E87-4DF2-A23E-0D060093319A}|IntegrityDocumentSort\\IntegrityDocumentSort.csproj|solutionrelative:integritydocumentsort\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\Program.cs",
+              "RelativeDocumentMoniker": "IntegrityDocumentSort\\Program.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\Program.cs",
+              "RelativeToolTip": "IntegrityDocumentSort\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAASwEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:38:20.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebDavManager.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\WebDavManager.cs",
+              "RelativeDocumentMoniker": "IntegrityDocumentSort\\WebDavManager.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\WebDavManager.cs",
+              "RelativeToolTip": "IntegrityDocumentSort\\WebDavManager.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwKsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:54:34.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationManager.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\LocationManager.cs",
+              "RelativeDocumentMoniker": "IntegrityDocumentSort\\LocationManager.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\10\\IntegrityDocumentSort\\IntegrityDocumentSort\\LocationManager.cs",
+              "RelativeToolTip": "IntegrityDocumentSort\\LocationManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgv7kBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:36:50.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
